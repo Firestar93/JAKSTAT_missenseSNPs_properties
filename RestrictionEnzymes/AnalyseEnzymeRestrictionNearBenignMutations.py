@@ -26,13 +26,13 @@ mutations = {
     "STAT4": [("Ile115Val", 115), ("Arg240Gln", 240), ("Leu269Ile", 269), ("Thr298Ile", 298)],
     "STAT5B": [("Ala130Val", 130), ("Glu315Ala", 315)],
     "JAK2": [("Leu113Val", 113), ("Gly127Asp", 127), ("Lys244Arg", 244), ("Asn337Asp", 337), ("Val392Met", 392),
-             ("Cys480Phe", 480), ("Ile724Thr", 724), ("Leu892Val", 892), ("Arg1063His", 1063)],
-    "JAK3": [("Ile63Val", 63), ("Arg121His", 121), ("Pro132Thr", 132), ("Val217Met", 217), ("Arg222His", 222),
+             ("Cys480Phe", 480), ("Leu892Val", 892)],
+    "JAK3": [("Ile63Val", 63), ("Arg121His", 121), ("Val217Met", 217),
              ("Pro396Leu", 396), ("Arg451Gln", 451), ("His879Arg", 879), ("Ile1003Val", 1003),
              ("Ala1090Thr", 1090)],
-    "TYK2": [("Val15Ala", 15), ("Ala53Thr", 53), ("Arg197His", 197), ("Val362Phe", 362), ("Gly363Ser", 363),
-             ("Gly634Glu", 634), ("Ile684Ser", 684), ("Arg703Trp", 703), ("Arg744Trp", 744), ("Gly761Val", 761),
-             ("Pro820His", 820), ("Ala928Val", 928), ("His993Tyr", 993), ("Pro1104Ala", 1104), ("Glu1163Gly", 1163)]
+    "TYK2": [("Val15Ala", 15), ("Ala53Thr", 53), ("Arg197His", 197), ("Gly363Ser", 363),
+             ("Arg744Trp", 744),
+             ("Pro820His", 820), ("His993Tyr", 993), ("Glu1163Gly", 1163)]
 }
 
 # Window size (flanking regions for restriction site search)
