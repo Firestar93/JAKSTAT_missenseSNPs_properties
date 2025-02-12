@@ -7,10 +7,31 @@ venn_diagram_path = "C:\\Users\\hoffmannmd\\OneDrive - National Institutes of He
 
 # Lists of restriction enzymes
 benign_variants = {
-    "AluI", "AgsI", "PspPI", "Sau96I", "HpyF10VI", "AciI", "AspBHI", "HpyCH4V",
-    "Hpy178III", "Hpy188III", "LpnPI", "RlaI", "MspJI", "SetI", "SgrTI", "YkrI",
-    "SgeI", "AbaSI", "CviRI", "CviJI", "CviKI_1", "EcoBLMcrX", "EcoO157SI",
-    "FspEI", "BmeDI"
+    "PspP",
+    "FatI",
+    "Hin1I",
+    "NlaIII",
+    "PsuGI",
+    "MnlI",
+    "RlaI",
+    "MspI",
+    "EcoO157SI",
+    "EcoBLMcrX",
+    "FspEI",
+    "Hpy188III",
+    "SetI",
+    "SgeI",
+    "SgrTI",
+    "YkrI",
+    "HpyCH4V",
+    "Hpy178III",
+    "LpnPI",
+    "BmeDI",
+    "AspBHI",
+    "CviKI_1",
+    "CviJI",
+    "CviRI",
+    "AbaSI"
 }
 
 clinical_variants = {
