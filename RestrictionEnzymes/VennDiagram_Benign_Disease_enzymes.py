@@ -36,7 +36,7 @@ benign_variants = {
 
 clinical_variants = {
     "Hpy178III", "MnlI", "Lcr047I", "LpnPI", "EcoBLMcrX", "Asi256I", "MalI",
-    "Sau3AI", "DpnI", "DpnII", "Bsp143I", "NdeI", "BssMI", "FaiI", "AspBHI",
+    "Sau3AI", "DpnI", "DpnII", "Bsp143I", "NdeII", "BssMI", "FaiI", "AspBHI",
     "SetI", "SgrTI", "AbaSI", "EcoO157SI", "RlaI", "YkrI", "SgeI", "BmeDI",
     "FspEI", "MspJI"
 }
