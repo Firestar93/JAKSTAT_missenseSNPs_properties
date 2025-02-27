@@ -13,7 +13,7 @@ gene_data = {
         # SHORT placeholder
         ),
         "mutations": [
-            ("Val461Leu", 1381, 1383), ("Ile498Val", 1947,1949), ("Val507Phe", 1519, 1521), ("Ala702Thr", 2104, 2106), ("Ser763Leu", 2287, 2289),
+            ("Val461Leu", 1381, 1383), ("Ile498Val", 1492,1494), ("Val507Phe", 1519, 1521), ("Ala702Thr", 2104, 2106), ("Ser763Leu", 2287, 2289),
         ],
     },
     "STAT4": {
